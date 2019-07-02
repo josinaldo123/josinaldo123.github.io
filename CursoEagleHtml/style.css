@@ -1,0 +1,12 @@
+.navbar{
+    background-color: black;
+}
+.inicio{
+    background-image: url("http://www.utel.edu.mx/blog/wp-content/uploads/2014/02/shutterstock_148972376.jpg");
+    background-size: cover;
+    background-position: bottom;
+}
+#conteudoInicio{
+    padding-bottom: 800px;
+    padding-top: 150px;
+}
